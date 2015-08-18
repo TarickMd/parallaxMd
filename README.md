@@ -8,15 +8,6 @@ Working
 -------
 Plugin add background url to your block and create parallax effect.
 
-**parallaxMd**
-==========
-	Easy JQuery plugin to create parallax effect.
-***
-
-Working
--------
-Plugin add background url to your block and create parallax effect.
-
 How to use?
 -------
 Plugin works with the dom of your html like this:
